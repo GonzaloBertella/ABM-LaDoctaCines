@@ -1,0 +1,299 @@
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ABMLaDoctaCines.exe.config
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ABMLaDoctaCines.exe
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ABMLaDoctaCines.pdb
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.csprojAssemblyReference.cache
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmDoctaCines.resources
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.Properties.Resources.resources
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.csproj.GenerateResource.cache
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.csproj.CoreCompileInputs.cache
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.csproj.CopyComplete
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.exe
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.pdb
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmClientes.resources
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmDashboard.resources
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.Consultas.resources
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmEmpleados.resources
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmOpciones.resources
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmPeliculas.resources
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmReservas.resources
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmFunciones.resources
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmPromociones.resources
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConsulta1.resources
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConsulta2.resources
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConsulta3.resources
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConsulta4.resources
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConsulta5.resources
+C:\Users\Camilo Rissi\source\repos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConsulta6.resources
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ABMLaDoctaCines.exe.config
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ABMLaDoctaCines.exe
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ABMLaDoctaCines.pdb
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\FontAwesome.Sharp.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmClientes.resources
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConsulta1.resources
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConsulta2.resources
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConsulta3.resources
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConsulta4.resources
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConsulta5.resources
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConsulta6.resources
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.Consultas.resources
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmDashboard.resources
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmDoctaCines.resources
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmEmpleados.resources
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmFunciones.resources
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmOpciones.resources
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmPeliculas.resources
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmPromociones.resources
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.Properties.Resources.resources
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.csproj.GenerateResource.cache
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.csproj.CoreCompileInputs.cache
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.csproj.CopyComplete
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.exe
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.pdb
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\EnvDTE.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\stdole.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.MSXML.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\RdlCompile.cache
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\RdlCompile.compiled
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmRecibos.resources
+C:\UTN\Progra_2\TrabajosPracticos\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.csprojAssemblyReference.cache
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ABMLaDoctaCines.exe.config
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ABMLaDoctaCines.exe
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ABMLaDoctaCines.pdb
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\FontAwesome.Sharp.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\EnvDTE.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\stdole.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.MSXML.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmClientes.resources
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConsulta1.resources
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConsulta2.resources
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConsulta3.resources
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConsulta4.resources
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConsulta5.resources
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConsulta6.resources
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.Consultas.resources
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmDashboard.resources
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmDoctaCines.resources
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmEmpleados.resources
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmFunciones.resources
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmOpciones.resources
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmPeliculas.resources
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmPromociones.resources
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmRecibos.resources
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.Properties.Resources.resources
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.csproj.GenerateResource.cache
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\RdlCompile.cache
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\RdlCompile.compiled
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.csproj.CoreCompileInputs.cache
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.csproj.CopyComplete
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.exe
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.pdb
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmEmpleadosInformes.resources
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConfiEmpleados.resources
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmGraficoFacturacion.resources
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\EntityFramework.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\EntityFramework.SqlServer.dll
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\EntityFramework.xml
+C:\UTN\TP INTEGRADOR\LaDoctaCines\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ABMLaDoctaCines.exe.config
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ABMLaDoctaCines.exe
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ABMLaDoctaCines.pdb
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\EntityFramework.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\EnvDTE.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\stdole.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\Microsoft.MSXML.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\EntityFramework.xml
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.csprojAssemblyReference.cache
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmClientes.resources
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConfiEmpleados.resources
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConsulta1.resources
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConsulta2.resources
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConsulta3.resources
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConsulta4.resources
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConsulta5.resources
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmConsulta6.resources
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.Consultas.resources
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmDashboard.resources
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmDoctaCines.resources
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmEmpleados.resources
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmEmpleadosInformes.resources
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmFunciones.resources
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmGraficoFacturacion.resources
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmOpciones.resources
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmPeliculas.resources
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmPromociones.resources
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.frmRecibos.resources
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.Properties.Resources.resources
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.csproj.GenerateResource.cache
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.csproj.CoreCompileInputs.cache
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.csproj.CopyComplete
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.exe
+C:\Users\gonza\OneDrive\Escritorio\PROGRAMACION\TRABAJO LAB Y PROG\ABMLaDoctaCines\ABMLaDoctaCines\obj\Debug\ABMLaDoctaCines.pdb

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="LaDoctaCinesModelGraficoStoreContainer" CdmEntityContainer="LaDoctaCinesEntities">
+    <FunctionImportMapping FunctionImportName="pa_Grafico_Ventas_Anuales" FunctionName="LaDoctaCinesModelGrafico.Store.pa_Grafico_Ventas_Anuales">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="LaDoctaCinesModelGrafico.pa_Grafico_Ventas_Anuales_Result">
+          <ScalarProperty Name="Empleado" ColumnName="Empleado" />
+          <ScalarProperty Name="Año" ColumnName="Año" />
+          <ScalarProperty Name="Importe_Facturado" ColumnName="Importe Facturado" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>
